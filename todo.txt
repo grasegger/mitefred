@@ -1,3 +1,5 @@
 X Implement continue so you don't have to start tasks again
-- Implement some caching
+X Implement some caching
 - Error handling
+- Make cache times env variables
+- Let the scripts filter the input
